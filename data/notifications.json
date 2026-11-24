@@ -1,0 +1,44 @@
+{
+  "notifications": [
+    {
+      "id": "c96bf14d-49f2-4606-8539-705b35226a3c",
+      "userId": "747353ab-f465-4a04-a366-0f26063eb0c4",
+      "requestId": 3,
+      "title": "New report: esmeringheard",
+      "message": "BENZEL JOHN DELMO (Student) reported a problem at Restroom (Main).",
+      "type": "reported",
+      "read": false,
+      "createdAt": "2026-11-25T02:34:08"
+    },
+    {
+      "id": "275f89fd-ac91-4a91-a7d0-761f54c083e7",
+      "userId": "1fdf8f6f-7628-4f0a-83e8-f0bc0524ef96",
+      "requestId": 3,
+      "title": "New report: esmeringheard",
+      "message": "BENZEL JOHN DELMO (Student) reported a problem at Restroom (Main).",
+      "type": "reported",
+      "read": false,
+      "createdAt": "2026-11-25T02:34:08"
+    },
+    {
+      "id": "21752700-85ee-4ce4-8aa2-33dc8d5af793",
+      "userId": "1b1703df-45a6-4513-972c-57a17d188e5a",
+      "requestId": 3,
+      "title": "esmeringheard - In Progress",
+      "message": "Your request #003 (esmeringheard) is now In Progress.",
+      "type": "progress",
+      "read": false,
+      "createdAt": "2026-11-25T02:35:17"
+    },
+    {
+      "id": "fdaa147e-3b77-4924-9493-7fc12683171a",
+      "userId": "1b1703df-45a6-4513-972c-57a17d188e5a",
+      "requestId": 3,
+      "title": "esmeringheard - Fixed",
+      "message": "Your request #003 (esmeringheard) is now Fixed.",
+      "type": "fixed",
+      "read": false,
+      "createdAt": "2026-11-25T02:37:18"
+    }
+  ]
+}

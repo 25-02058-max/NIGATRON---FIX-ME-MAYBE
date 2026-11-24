@@ -1,0 +1,88 @@
+{
+  "facilities": [
+    {
+      "id": 1,
+      "name": "Room 101",
+      "location": "Main Building",
+      "type": "Classroom"
+    },
+    {
+      "id": 2,
+      "name": "Room 102",
+      "location": "Main Building",
+      "type": "Classroom"
+    },
+    {
+      "id": 3,
+      "name": "Room 201",
+      "location": "Main Building",
+      "type": "Classroom"
+    },
+    {
+      "id": 4,
+      "name": "Room 205",
+      "location": "Main Building",
+      "type": "Classroom"
+    },
+    {
+      "id": 5,
+      "name": "Room 301",
+      "location": "CICS Building",
+      "type": "Classroom"
+    },
+    {
+      "id": 6,
+      "name": "Room 305",
+      "location": "CICS Building",
+      "type": "Classroom"
+    },
+    {
+      "id": 7,
+      "name": "Computer Lab 1",
+      "location": "CICS Building",
+      "type": "Laboratory"
+    },
+    {
+      "id": 8,
+      "name": "Computer Lab 2",
+      "location": "CICS Building",
+      "type": "Laboratory"
+    },
+    {
+      "id": 9,
+      "name": "Library",
+      "location": "Library Building",
+      "type": "Library"
+    },
+    {
+      "id": 10,
+      "name": "Gymnasium",
+      "location": "Gym",
+      "type": "Sports Facility"
+    },
+    {
+      "id": 11,
+      "name": "Canteen",
+      "location": "Canteen",
+      "type": "Common Area"
+    },
+    {
+      "id": 12,
+      "name": "Faculty Room",
+      "location": "Main Building",
+      "type": "Office"
+    },
+    {
+      "id": 13,
+      "name": "Restroom (Main)",
+      "location": "Main Building",
+      "type": "Restroom"
+    },
+    {
+      "id": 14,
+      "name": "Hallway",
+      "location": "Main Building",
+      "type": "Common Area"
+    }
+  ]
+}

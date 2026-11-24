@@ -1,0 +1,44 @@
+{
+  "nextId": 4,
+  "requests": [
+    {
+      "id": 3,
+      "code": "#003",
+      "problem": "esmeringheard",
+      "description": "",
+      "location": "Restroom (Main)",
+      "facilityType": "Plumbing",
+      "dateReported": "2026-11-25",
+      "photo": "/uploads/request-003-1795545248081.jpg",
+      "reporterId": "1b1703df-45a6-4513-972c-57a17d188e5a",
+      "reporterName": "BENZEL JOHN DELMO",
+      "reporterRole": "Student",
+      "status": "Fixed",
+      "history": [
+        {
+          "status": "Reported",
+          "note": "Request submitted",
+          "updatedBy": "BENZEL JOHN DELMO",
+          "updatedByRole": "Student",
+          "at": "2026-11-25T02:34:08"
+        },
+        {
+          "status": "In Progress",
+          "note": "",
+          "updatedBy": "Maintenance Admin",
+          "updatedByRole": "Maintenance Staff",
+          "at": "2026-11-25T02:35:17"
+        },
+        {
+          "status": "Fixed",
+          "note": "",
+          "updatedBy": "Maintenance Admin",
+          "updatedByRole": "Maintenance Staff",
+          "at": "2026-11-25T02:37:18"
+        }
+      ],
+      "createdAt": "2026-11-25T02:34:08",
+      "updatedAt": "2026-11-25T02:37:18"
+    }
+  ]
+}
